@@ -14,6 +14,6 @@
 
 ## :link: Connect with us
 - Email: frc7130@ms.mingdao.edu.tw
-- ![YouTube]("https://www.youtube.com/channel/UCrr_gyEFzddEHeuWRg1fU7Q")
-- ![Instagram]("https://www.instagram.com/frc7130_future_shock/")
-- ![Facebook]("https://www.facebook.com/fablabMDHSfrc7130")
+- ![YouTube](https://www.youtube.com/channel/UCrr_gyEFzddEHeuWRg1fU7Q)
+- ![Instagram](https://www.instagram.com/frc7130_future_shock/)
+- ![Facebook](https://www.facebook.com/fablabMDHSfrc7130)
