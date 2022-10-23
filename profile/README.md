@@ -1,6 +1,6 @@
 <h1 text align="center">FRC 7130 Future Shock</h1>
 
-## 👋 About us
+## 👋 About us 
 - From **Mingdao High School**
 - Rookie Year: 2018
 
@@ -11,3 +11,9 @@
 - 2019 Deep Space Taiwan FRC Off-Season: 🥇 of the qualification
 - 2019 Deep Space Taiwan FRC Off-Season: Finalist
 - 2022 Rapid React New Taipei City x Hon Hai Regional: Fourth Place
+
+## :link: Connect with us
+- :envelope: Email: frc7130@ms.mingdao.edu.tw
+- [YouTube]("https://www.youtube.com/channel/UCrr_gyEFzddEHeuWRg1fU7Q")
+- [Instagram]("https://www.instagram.com/frc7130_future_shock/")
+- [Facebook]("https://www.facebook.com/fablabMDHSfrc7130")
