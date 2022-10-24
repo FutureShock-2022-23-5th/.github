@@ -2,8 +2,8 @@
 <h3 text align="center">Up to the future, expand your vision.</h3>
 
 ### 👋 About us 
-- From **Mingdao High School**
 - From **Taichung, Taiwan**
+- From **Mingdao High School**
 - Rookie Year: 2018
 
 ### 🏅 Awards
