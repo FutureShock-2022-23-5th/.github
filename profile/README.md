@@ -3,6 +3,7 @@
 
 ### 👋 About us 
 - From **Mingdao High School**
+- From **Taichung, Taiwan**
 - Rookie Year: 2018
 
 ### 🏅 Awards
