@@ -1,5 +1,5 @@
 <h1 text align="center">FRC 7130 Future Shock</h1>
-<h4 text align="center">Up to the future, expand your vision.</h4>
+<h3 text align="center">Up to the future, expand your vision.</h3>
 
 ### 👋 About us 
 - From **Taichung, Taiwan**
