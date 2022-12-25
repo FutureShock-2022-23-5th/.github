@@ -8,11 +8,7 @@
 
 ### 🏅 Awards
 - 2018 Power Up Southern Cross Regional: Imagery Award in honor of Jack Kamen
-- 2019 Deep Space Southern Cross Regional: 🥈 of the qualification 
-- 2019 Deep Space Southern Cross Regional: Fourth Place
-- 2019 Deep Space Taiwan FRC Off-Season: 🥇 of the qualification
 - 2019 Deep Space Taiwan FRC Off-Season: Finalist
-- 2022 Rapid React New Taipei City x Hon Hai Regional: Fourth Place
 
 ### 🔗 Connect with us
 - Email: frc7130@ms.mingdao.edu.tw
