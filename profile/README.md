@@ -9,6 +9,7 @@
 ### 🏅 Awards
 - 2018 Power Up Southern Cross Regional: Imagery Award in honor of Jack Kamen
 - 2019 Deep Space Taiwan FRC Off-Season: Finalist
+- 2020 Infinity Recharge Taichung Science Park 5G Pilot Regional: Judges Award
 
 ### 🔗 Connect with us
 - Email: frc7130@ms.mingdao.edu.tw
